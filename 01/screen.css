@@ -90,7 +90,8 @@ header .description {
 main {
 	display: block;
 	padding: 2em;
-	background-image: url(bg_2.jpg);
+	/*background-image: url(bg_2.jpg);*/
+	background-color: #f5f5f5;
 }
 
 main h2 {
